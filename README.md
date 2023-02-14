@@ -11,3 +11,12 @@
 ### Use Cases
 - [Data node configurations for Red Hat OpenShift](https://www.redhat.com/en/resources/data-node-configurations-for-openshift-overview)
 - [IBM Db2 Warehouse MPP on OpenShift Data Foundation](https://www.redhat.com/en/resources/ibm-db2-warehouse-mpp-on-openShift-data-foundation-detail)
+
+### Learning
+- [Red Hat OpenShift Data Science learning](https://developers.redhat.com/learn/openshift-data-science)
+
+### Announcements
+- [Expanding OpenShift Data Science Support for On-Premise Deployments](https://cloud.redhat.com/blog/expanding-openshift-data-science-support-for-on-premise-deployments)
+
+### Events
+- [OpenShift Commons Gathering on Data Science Summary](https://cloud.redhat.com/blog/openshift-commons-gathering-on-data-science-summary)
